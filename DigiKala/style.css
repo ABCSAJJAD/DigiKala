@@ -1,0 +1,530 @@
+body{
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.top{
+max-width: 100%;
+height: 55px;
+
+
+}
+
+
+.digikala{
+
+width: 17%;
+margin-top: 10px;
+float: right;
+display: flex;
+justify-content: flex-start;
+}
+
+.search{
+  float: right;
+}
+
+.search{
+  position: relative;
+  margin-right: 20px;
+  margin-top: 7px;
+  width: 45%;
+  text-align: right;
+  padding-right: 20px;
+  background-color: #f0f0f1;
+ height: 40px;
+ border: none;
+ border-radius: 10px;
+}
+.zarebin{
+position: absolute;
+opacity: 30%;
+width: 18px;
+right: 245px;
+bottom: 490px;
+
+}
+
+.shop{
+  width: 25px;
+  margin-top: 9px;
+  margin-left: 25px;
+transform: scaleX(-1);
+position: relative;
+opacity: 90%;
+}
+
+
+.khat{
+  width: 2px;
+  height: 26px;
+  background: black ;
+  opacity: 10%;
+  position: absolute;
+  left: 70px;
+  bottom: 490px;
+
+}
+
+.linkesabad:hover{
+
+  opacity: 50%;
+
+}
+
+.vorood{
+
+position: absolute;
+left: 100px;
+top: 65px;
+background-color: white;
+width: 150px;
+height: 37px;
+border: 1px solid rgb(199, 199, 199);
+border-radius: 10px;
+font-size: medium;
+white-space: nowrap;
+padding-left:20px ;
+padding-right: 50px;
+
+
+
+}
+
+
+
+
+
+.door{
+
+  position: relative;
+  transform: scaleX(-1);
+width: 20px;
+vertical-align: middle;
+}
+
+.notif{
+  position: absolute;
+left: 260px;
+top: 60px;
+
+
+
+  width: 70px;
+}
+
+.notiflink:hover{
+
+    
+opacity: 50%;
+
+}
+
+.vorood:hover{
+
+  opacity: 50%;
+
+}
+
+.toplink:hover{
+  opacity: 50%;
+     background-color: rgb(215, 214, 214);
+  border-radius: 5px;
+    transition: background-color 1s ease;
+    
+}
+
+
+.khatevasat{
+  width: 100%;
+  height: 1px;
+  background-color: black;
+  position: relative;
+  top: 60px;
+  opacity: 40%;
+}
+
+.makan{
+  text-decoration: none;
+  color: black;
+  font-size: medium;
+position: relative;
+top: 27px;
+left: 20px;
+  
+}.makan:hover{
+  opacity: 50%;
+   background-color: rgb(215, 214, 214);
+  border-radius: 5px;
+    transition: background-color 1s ease;
+    
+}
+
+.makan img{
+width: 15px;
+}
+
+
+
+.dastebandi{
+
+text-decoration: none;
+color: black;
+opacity: 70%;
+position: absolute;
+left: 90%;
+top: 22%;
+
+
+  
+}
+.dastebandi img{
+  width: 27px;
+vertical-align: middle;
+
+}
+
+.super{
+  text-decoration: none;
+color: black;
+opacity: 55%;
+position: absolute;
+left: 80%;
+top: 22%;
+
+
+
+
+}
+
+.super img{
+  width: 25px;
+vertical-align: middle;
+
+}
+.tala{
+  text-decoration: none;
+color: black;
+opacity: 55%;
+
+position: absolute;
+left: 70%;
+top: 22%;
+
+
+
+
+}
+
+.tala img{
+   width: 20px;
+vertical-align: middle;
+margin-bottom: 10px;
+}
+
+
+
+.por{
+  text-decoration: none;
+color: black;
+opacity: 55%;
+position: absolute;
+left: 60%;
+top: 22%;
+
+
+
+
+}
+
+.por img{
+    width: 20px;
+vertical-align: middle;
+margin-bottom: 10px;
+margin-bottom: 5px;
+}
+
+.soal{
+  text-decoration: none;
+color: black;
+opacity: 55%;
+position: absolute;
+left: 40%;
+top: 22%;
+margin-top: 2px;
+
+
+
+
+}.dar{
+  text-decoration: none;
+color: black;
+opacity: 55%;
+position: absolute;
+left: 30%;
+top: 22%;
+margin-top: 2px;
+
+
+
+
+
+
+}.shegeft{
+  text-decoration: none;
+color: black;
+opacity: 55%;
+
+position: absolute;
+left: 50%;
+top: 22%;
+
+}
+
+.shegeft img{
+   width: 18px;
+vertical-align: middle;
+opacity: 70%;
+margin-bottom: 10px;
+}
+
+
+.khat2{
+  width: 2px;
+  height: 26px;
+  background: black ;
+  opacity: 10%;
+  position: absolute;
+ left: 47.5%;
+top: 21.5%;
+}
+
+
+.dastebandi:hover{
+color:white;
+  background-color: red;
+  border-radius: 5px;
+  transition: background-color 1s ease;
+  
+}.super:hover{
+color:white;
+  background-color: red;
+  border-radius: 5px;
+    transition: background-color 1s ease;
+
+}.tala:hover{
+  color:white;
+  background-color: red;
+  border-radius: 5px;
+    transition: background-color 1s ease;
+
+}.por:hover{
+color:white;
+  background-color: red;
+  border-radius: 5px;
+    transition: background-color 1s ease;
+
+}.soal:hover{
+color:white;
+  background-color: red;
+  border-radius: 5px;
+    transition: background-color 1s ease;
+
+}.dar:hover{
+color:white;
+  background-color: red;
+  border-radius: 5px;
+    transition: background-color 1s ease;
+
+}.shegeft:hover{
+color:white;
+  background-color: red;
+  border-radius: 5px;
+    transition: background-color 1s ease;
+
+}
+
+
+.aks{
+
+position: relative;
+top: 200px;
+
+
+
+}
+
+
+.story1 img{
+
+width: 80px;
+border-radius: 1000px;
+position: relative;
+bottom: 530px;
+left: 1150px;
+
+
+
+}.story2 img{
+
+width: 80px;
+border-radius: 1000px;
+position: relative;
+bottom: 530px;
+left: 950px;
+
+
+
+}.story3 img{
+
+width: 80px;
+border-radius: 1000px;
+position: relative;
+bottom: 530px;
+left: 750px;
+
+
+
+}.story4 img{
+
+width: 80px;
+border-radius: 1000px;
+position: relative;
+bottom: 530px;
+left: 550px;
+
+
+
+}.story5 img{
+
+width: 80px;
+border-radius: 1000px;
+position: relative;
+bottom: 530px;
+left: 350px;
+
+
+
+}.story6 img{
+
+width: 80px;
+border-radius: 1000px;
+position: relative;
+bottom: 530px;
+left: 150px;
+
+
+
+}.story7 img{
+
+width: 80px;
+border-radius: 1000px;
+position: relative;
+bottom: 530px;
+left: -50px;
+
+
+
+}.story8 img{
+
+width: 80px;
+border-radius: 1000px;
+position: relative;
+bottom: 530px;
+left: -250px;
+
+
+
+}.story9 img{
+
+width: 80px;
+border-radius: 1000px;
+position: relative;
+bottom: 530px;
+left: -450px;
+
+
+
+}.story10 img{
+
+width: 80px;
+border-radius: 1000px;
+position: relative;
+bottom: 530px;
+left: -650px;
+
+
+
+}.story11 img{
+
+width: 80px;
+border-radius: 1000px;
+position: relative;
+bottom: 530px;
+left: -850px;
+
+
+
+}
+
+
+.story1 img:hover{
+
+
+  transition: transform 1s ease;
+  transform: rotate(360deg);
+}.story2 img:hover{
+
+
+  transition: transform 1s ease;
+  transform: rotate(360deg);
+}.story3 img:hover{
+
+
+  transition: transform 1s ease;
+  transform: rotate(360deg);
+}.story4 img:hover{
+
+
+  transition: transform 1s ease;
+  transform: rotate(360deg);
+}.story5 img:hover{
+
+
+  transition: transform 1s ease;
+  transform: rotate(360deg);
+}.story6 img:hover{
+
+
+  transition: transform 1s ease;
+  transform: rotate(360deg);
+}.story7 img:hover{
+
+
+  transition: transform 1s ease;
+  transform: rotate(360deg);
+}.story8 img:hover{
+
+
+  transition: transform 1s ease;
+  transform: rotate(360deg);
+}.story9 img:hover{
+
+
+  transition: transform 1s ease;
+  transform: rotate(360deg);
+}.story10 img:hover{
+
+
+  transition: transform 1s ease;
+  transform: rotate(360deg);
+}.story11 img:hover{
+
+
+  transition: transform 1s ease;
+  transform: rotate(360deg);
+}
+
+.aks:hover{
+  opacity: 50%;
+}
